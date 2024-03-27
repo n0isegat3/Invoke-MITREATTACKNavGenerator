@@ -12,6 +12,8 @@ This PowerShell script is designed to generate a MITRE ATT&CK Navigator layer te
 
 To use the script, clone this repository and run the script with the required parameters. Refer to the script's comment-based help for more detailed usage information.
 
+<img src="assets/usage1.gif" alt="Use the script" width="600"/>
+
 ## Requirements
 
 Windows PowerShell 5.0 or higher.
