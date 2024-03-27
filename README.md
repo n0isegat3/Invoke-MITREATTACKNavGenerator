@@ -12,7 +12,7 @@ This PowerShell script is designed to generate a MITRE ATT&CK Navigator layer te
 
 To use the script, clone this repository and run the script with the required parameters. Refer to the script's comment-based help for more detailed usage information.
 
-<img src="assets/usage1.gif" alt="Use the script"/>
+![](https://github.com/n0isegat3/Invoke-MITREATTACKNavGenerator/blob/main/assets/usage1.gif)
 
 ## Requirements
 
